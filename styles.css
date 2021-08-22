@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FFE2E2;
+}
+
+h1 {
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  color: #888888;
+  padding-top: 50px;
+}
+
+h2 {
+  font-family: 'Urbanist', Verdana, sans-serif;
+  color: #888888;
+  font-size: 3rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Urbanist', Verdana, sans-serif;
+  color: #888888;
+  font-size: 2rem;
+}
+
+p {
+  font-family: 'Urbanist', Verdana, sans-serif;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #D7A0A0;
+  border-width: 6px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.footer-link {
+  color: #CF6868;
+  font-family: 'Urbanist', Verdana, sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #F6F6F6;
+}
+
+.programmer {
+  font-family: 'Urbanist', Verdana, sans-serif;
+  font-size: 2.5rem;
+  color: #888888;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #F6F6F6;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #FFC7C7;
+  padding: 50px 0 20px;
+}
+
+.moon {
+  height: auto;
+  padding-top: 50px;
+  width: 300px;
+}
+
+.upper-cloud {
+  position: absolute;
+  height: 200px;
+  left: 60%;
+  top: 25%;
+}
+
+.lower-cloud {
+  position: relative;
+  bottom: 10px;
+  height: 400px;
+}
+
+.intro {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.skill-row {
+  margin: 100px auto 200px;
+  text-align: left;
+  width: 55%;
+}
+
+.pearl-graphic {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.photographer {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Urbanist', Verdana, sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #CF6868;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FFC7C7;
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #CF6868;
+  font-size: 1rem;
+  padding: 20px 0;
+}
